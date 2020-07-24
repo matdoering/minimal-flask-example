@@ -1,0 +1,16 @@
+flask
+
+# testing
+pytest
+requests
+
+# production
+uwsgi
+
+# swagger api docs
+apispec
+apispec_webframeworks
+marshmallow
+flask_swagger_ui
+openapi_spec_validator
+

@@ -16,7 +16,7 @@ For more information, read [my blog post on Flask APIs](https://www.datascienceb
 To set up the application, you need Python 3. After cloning the repository change to the project directory and install the dependencies via:
 
 ```
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Development
